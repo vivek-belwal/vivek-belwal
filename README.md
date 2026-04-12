@@ -1,7 +1,12 @@
 <h1 align="center">Hi there, I'm Vivek Belwal 👋</h1>
 
 <p align="center">
-  🎓 B.Tech CSE (Data Science) Student &nbsp;|&nbsp; 💻 Aspiring Developer &nbsp;|&nbsp; 📊 Data Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Data+Science)+Student;Aspiring+Developer;Data+Science" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-B.Tech_CSE_DS-blue" />
+  <img src="https://img.shields.io/badge/💻-Aspiring_Developer-green" />
+  <img src="https://img.shields.io/badge/📊-Data_Science-orange" />
 </p>
 
 ---
