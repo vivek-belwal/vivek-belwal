@@ -66,7 +66,7 @@
 
 <div align="center">
   <a href="https://github.com/vivek-belwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-belwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mayank's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-belwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vivek's Stats" />
   </a>
   <a href="https://github.com/vivek-belwal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-belwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
