@@ -1,5 +1,6 @@
 ![image](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHpndmxuN3RydWlqMGVsbDBnNHFna2xncWU2M3cydTF0M252ZmkxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wv1RNuvWMjQ10bzExO/giphy.gif)   
-h1 align="center">Hi there, I'm Vivek Belwal 👋</h1>
+
+<h1> align="center">Hi there, I'm Vivek Belwal 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Data+Science)+Student;Aspiring+Developer;Data+Science" />
